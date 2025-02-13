@@ -459,7 +459,7 @@ async function key_random(content) {
     }
 }
 
-RunTimer(c = 0, startTimeInput = 0, minInterval = 0, maxInterval = 0, _x_ = "", da = {}, tag_id = 0);
+RunTimer(c = 0, startTimeInput = 0, minInterval = 0, maxInterval = 0, _x_ = "", da = {}, tag_id = 1);
 
 function Run(c,startTimeInput,minInterval,maxInterval,_x_,Sid){
   GM_xmlhttpRequest({
